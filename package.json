@@ -4,7 +4,7 @@
 	"version" : "0.1.1",
 	"author" : "Daniel Heslop <daniel@heslop.de>",
 	"description" : "Making Games Mod",
-	"url" : "http://sicher.heslop.de/sign/making_games_mod",
+	"url" : "https://sicher.heslop.de/sign/making_games_mod",
 	"main" : "./makingGames.js",
 	"dependencies" : {
 		"gdt-modAPI":"0.1.x"
